@@ -12,6 +12,6 @@ The data port of the ws2812 light strip should to be connected to GPIO21 of the 
 Run the program and follow the prompts to adjust the light color by typing <ON>/<OFF> or <C>.
 
 
-#about ws2812_lib.py
+# About ws2812_lib.py
 <ws2812_lib.py>里面包含了几种LED灯条的控制方法，比如彩虹灯，跑马灯，呼吸灯
 <ws2812_lib.py> contains several LED strip control methods, such as rainbow light, running light, breathing light
